@@ -1,0 +1,173 @@
+@media screen and (max-width: 480px) {
+
+    .html, body {
+        overflow-x: hidden;
+    }
+
+    .wrapper {
+        padding: 0 20px;
+    }
+
+    .header_top__menu, .first_screen__right, .second_screen__left,
+    .AC_right {
+        display: none;
+    }
+
+
+    .first_screen__left h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .first_screen__left p {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .first_screen_button {
+        top: 100px;
+        left: 30px;
+        margin-bottom: 10px;
+    }
+
+    .second_screen__right {
+        margin-top: -60px;
+    }
+
+    .second_screen__right h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .second_screen__right p {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .features__header {
+        margin-top: 60px;
+    }
+
+    .features__header h1 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+    .features_control {
+        flex-direction: column;
+    }
+
+    .header_plans h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+
+    .plans__rockets {
+        flex-direction: column;
+
+    }
+
+    .plans_third_rocket {
+        margin-bottom: 50px;
+    }
+
+
+    .sponsors__main {
+        flex-direction: column;
+
+
+    }
+
+    .sponsors_right img {
+        width: 90px;
+        height: 90px;
+    }
+
+    .sponsors_left h1 {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .sponsors_right {
+        padding-top: 50px;
+    }
+
+    .AC__grid {
+        margin-top:-30px;
+    }
+
+
+    .AC_left h1 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+    .AC_left p {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .green__block {
+        position: relative;
+        width: 350px;
+        flex-direction: column;
+        padding-top: 50px;
+        margin-left: 40px;
+        margin-top: 30px;
+
+    }
+
+
+    .green_block_left h1 {
+        font-size: 40px;
+        line-height: 40px;
+        padding-top: 30px;
+        height: 100px;
+
+    }
+
+    .green_block_left h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .green__block button {
+        position: absolute;
+        left: 100px;
+        bottom: 0;
+    }
+
+
+    .contacts__main {
+        flex-direction: column;
+        background-color: #302E3F;
+        margin-top: 20px;
+
+    }
+
+    .contacts_information {
+        margin-bottom: 40px;
+        padding-bottom: 10px;
+    }
+
+    .contacts_footer {
+        background-color: #302E3F
+    }
+
+
+    .contacts_pic {
+        display: none;
+
+    }
+
+    .button_mobile {
+        display: flex;
+    }
+}
+
+
+
+    
